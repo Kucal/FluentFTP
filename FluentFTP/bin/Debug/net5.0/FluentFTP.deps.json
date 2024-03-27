@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FluentFTP/49.0.2": {
+        "runtime": {
+          "FluentFTP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentFTP/49.0.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

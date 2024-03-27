@@ -27,6 +27,29 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Content Include="bin\Debug\net462\FluentFTP.xml" />
+      <Content Include="bin\Debug\net472\FluentFTP.xml" />
+      <Content Include="bin\Debug\net5.0\FluentFTP.deps.json" />
+      <Content Include="bin\Debug\net5.0\FluentFTP.xml" />
+      <Content Include="bin\Debug\net6.0\FluentFTP.deps.json" />
+      <Content Include="bin\Debug\net6.0\FluentFTP.xml" />
+      <Content Include="bin\Debug\netstandard2.0\FluentFTP.deps.json" />
+      <Content Include="bin\Debug\netstandard2.0\FluentFTP.xml" />
+      <Content Include="bin\Debug\netstandard2.1\FluentFTP.deps.json" />
+      <Content Include="bin\Debug\netstandard2.1\FluentFTP.xml" />
+      <Content Include="bin\Release\net462\FluentFTP.xml" />
+      <Content Include="bin\Release\net472\FluentFTP.xml" />
+      <Content Include="bin\Release\net5.0\FluentFTP.deps.json" />
+      <Content Include="bin\Release\net5.0\FluentFTP.xml" />
+      <Content Include="bin\Release\net6.0\FluentFTP.deps.json" />
+      <Content Include="bin\Release\net6.0\FluentFTP.xml" />
+      <Content Include="bin\Release\netstandard2.0\FluentFTP.deps.json" />
+      <Content Include="bin\Release\netstandard2.0\FluentFTP.xml" />
+      <Content Include="bin\Release\netstandard2.1\FluentFTP.deps.json" />
+      <Content Include="bin\Release\netstandard2.1\FluentFTP.xml" />
+    </ItemGroup>
+
+    <ItemGroup>
         <None Include="..\.github\logo-nuget.png">
             <Pack>True</Pack>
             <PackagePath></PackagePath>
@@ -35,6 +58,31 @@
             <Pack>True</Pack>
             <PackagePath></PackagePath>
         </None>
+        <None Include="bin\Debug\net462\FluentFTP.dll" />
+        <None Include="bin\Debug\net462\FluentFTP.pdb" />
+        <None Include="bin\Debug\net472\FluentFTP.dll" />
+        <None Include="bin\Debug\net472\FluentFTP.pdb" />
+        <None Include="bin\Debug\net5.0\FluentFTP.dll" />
+        <None Include="bin\Debug\net5.0\FluentFTP.pdb" />
+        <None Include="bin\Debug\net6.0\FluentFTP.dll" />
+        <None Include="bin\Debug\net6.0\FluentFTP.pdb" />
+        <None Include="bin\Debug\netstandard2.0\FluentFTP.dll" />
+        <None Include="bin\Debug\netstandard2.0\FluentFTP.pdb" />
+        <None Include="bin\Debug\netstandard2.1\FluentFTP.dll" />
+        <None Include="bin\Debug\netstandard2.1\FluentFTP.pdb" />
+        <None Include="bin\Release\FluentFTP.49.0.2.nupkg" />
+        <None Include="bin\Release\net462\FluentFTP.dll" />
+        <None Include="bin\Release\net462\FluentFTP.pdb" />
+        <None Include="bin\Release\net472\FluentFTP.dll" />
+        <None Include="bin\Release\net472\FluentFTP.pdb" />
+        <None Include="bin\Release\net5.0\FluentFTP.dll" />
+        <None Include="bin\Release\net5.0\FluentFTP.pdb" />
+        <None Include="bin\Release\net6.0\FluentFTP.dll" />
+        <None Include="bin\Release\net6.0\FluentFTP.pdb" />
+        <None Include="bin\Release\netstandard2.0\FluentFTP.dll" />
+        <None Include="bin\Release\netstandard2.0\FluentFTP.pdb" />
+        <None Include="bin\Release\netstandard2.1\FluentFTP.dll" />
+        <None Include="bin\Release\netstandard2.1\FluentFTP.pdb" />
     </ItemGroup>
 
     <PropertyGroup Condition="'$(Configuration)'=='Release'">
